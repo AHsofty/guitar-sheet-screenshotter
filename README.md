@@ -17,3 +17,6 @@ The settings file is stored under settings.json. I am planning on adding more cu
   - `auto-convert-to-pdf`; Can be set to `true` or `false`. This option automatically puts the images in a pdf file. It is reccomended to keep this setting on `true`
   - `clean-images-at-end`; Can be set to `true` or `false`. This option attempts to clean up the images by changing colours that aren't black to white. It is reccomended to set this option to `true` unless the images look distorted or weird or anything like that.
   
+
+# Keyboard shortcuts
+    - `q`; Ends the script and goes to the end.
