@@ -1,0 +1,5 @@
+keyboard
+pyautogui
+pyscreenshot
+imagehash
+img2pdf
