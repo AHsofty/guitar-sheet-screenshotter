@@ -1,0 +1,17 @@
+{
+  "bbox-check-dimensions": [
+    260,
+    450,
+    1650,
+    610
+  ],
+  "pixel-check-end-screen": true,
+  "pixel-check-end-screen-coords": [
+    293,
+    620
+  ],
+
+  "detect-end-screen-by-value": true,
+  "auto-convert-to-pdf" : true,
+  "clean-images-at-end" : true
+}
